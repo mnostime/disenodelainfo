@@ -1,2 +1,2 @@
 # disenodelainfo
-Diseño de la información
+https://mnostime.github.io/disenodelainfo/
